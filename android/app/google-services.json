@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83896785246",
+    "project_id": "ishaqmadlab10",
+    "storage_bucket": "ishaqmadlab10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83896785246:android:031e44e3fb8c555e7217cf",
+        "android_client_info": {
+          "package_name": "com.example.lab10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhrT-6CD3I_GSXbvfioRcYsE8cfU2cvRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
